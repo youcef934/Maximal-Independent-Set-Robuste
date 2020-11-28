@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: 090
+Bundle-SymbolicName: aek.graph.090
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: aek.graph.090
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
